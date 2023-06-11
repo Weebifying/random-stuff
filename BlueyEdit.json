@@ -124,22 +124,22 @@
          "PRIMARY_800": "#040c33", 
          "PRIMARY_900": "#040c33", 
          "YELLOW_300": "#7687db", 
-         "BRAND_260": "#7799bb", 
-         "BRAND_360": "#7799bb", 
-         "BRAND_500": "#7799bb", 
+         "BRAND_260": "#566bd6", 
+         "BRAND_360": "#566bd6", 
+         "BRAND_500": "#566bd6", 
          "BRAND_560": "#8e9de6", 
          "GREEN_360": "#566bd6", 
-         "RED_400": "#f23f43", 
+         "RED_400": "#566bd6", 
          "ORANGE_345": "#566bd6", 
-         "RED_560": "#f23f43", 
+         "RED_560": "#566bd6", 
          "GREEN_345": "#566bd6", 
-         "BLUE_345": "#7799bb", 
+         "BLUE_345": "#566bd6", 
          "WHITE_500": "#b5bee8" 
   
      }, 
    "background": { 
      "blur": 0, 
-     "url": "https://cdn.discordapp.com/attachments/919920863720120382/1101849588786278480/New_Project_101_C5DF9F8.png", 
+     "url": "https://cdn.discordapp.com/attachments/776630512327458837/1117512593377083532/canvas.jpg", 
      "alpha": 0.5
    }, 
      "spec": 2 
